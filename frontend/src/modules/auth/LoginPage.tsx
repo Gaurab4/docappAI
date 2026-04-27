@@ -1,5 +1,5 @@
 import { useEffect, useState, type FormEvent } from 'react'
-import { useLocation, useNavigate, Link } from 'react-router-dom'
+import { useLocation, useNavigate } from 'react-router-dom'
 import { Button } from '@/shared/components/Button'
 import { TextField } from '@/shared/components/TextField'
 import { Spinner } from '@/shared/components/Spinner'
