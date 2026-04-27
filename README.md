@@ -3,5 +3,5 @@
 
 login details 
 
-User : demo.testing@gmail.com 
+User : demo.testing@gmail.com  
 Password : testing@123
